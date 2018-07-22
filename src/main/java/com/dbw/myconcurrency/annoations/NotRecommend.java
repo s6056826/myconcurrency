@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 课程里用来标记线程安全的类或者推荐写法
+ * 课程里用来标记线程安全的类或者不推荐写法
  */
 
 @Target(ElementType.TYPE)
